@@ -11,3 +11,5 @@ twitter_username: jekyllwriter
 github_username: wenjoyee
 markdown: kramdown
 baseurl: ''
+
+theme: jekyll-theme-slate
