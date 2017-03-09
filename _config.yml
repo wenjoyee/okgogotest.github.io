@@ -1,13 +1,11 @@
 # Created by Jekyll Writer
-title: Ricky--测试人生
+title: Beautiful Testing
 author: Ricky Ye
 description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
+  Recording my testing life, Appreciate the beauty of Testing.
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
 github_username: wenjoyee
 markdown: kramdown
 baseurl: ''
