@@ -10,4 +10,4 @@ github_username: wenjoyee
 markdown: kramdown
 baseurl: ''
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
